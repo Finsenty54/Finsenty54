@@ -51,9 +51,11 @@
 
 </td></tr></table>  
 
-
-
-
+## Code time
+<div align="center">
+<script src="https://gist.github.com/Finsenty54/c05e10597e2ebe37ea36cc17f8a97362.js"></script>
+</div>
+  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Finsenty54" target="_blank">
