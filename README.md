@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Finsenty54/finsenty54.github.io/blob/master/images/love.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Finsenty54/finsenty54.github.io/blob/master/images/love.jpg" align="center" style="width: 70%" />
 </div>  
   
 
