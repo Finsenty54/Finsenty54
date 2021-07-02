@@ -1,10 +1,10 @@
-### Hi there 👋
+<h2 align="center">About me</h2>
 
 <!--
 **Finsenty54/Finsenty54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Hash function security analysis
+<p align="center">I’m currently working on Hash function security analysis</p>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
