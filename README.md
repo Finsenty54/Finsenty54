@@ -14,7 +14,7 @@
 -->
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsenty54&langs_count=10&theme=tokyonight&layout=compact" alt="Finsenty54 :: Top Langs" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Finsenty54&show_icons=true&theme=synthwave" alt="Finsenty54 :: Profile Stats" /></p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsenty54&langs_count=10&theme=tokyonight&layout=compact" alt="Finsenty54 :: Top Langs" /></p>
+-->
+<p><img src="https://github-readme-stats.vercel.app/api?username=Finsenty54&show_icons=true&theme=synthwave" alt="Finsenty54 :: Profile Stats" /></p>
 
