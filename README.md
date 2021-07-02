@@ -14,9 +14,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsenty54&langs_count=10&theme=tokyonight&layout=compact" alt="Finsenty54 :: Top Langs" /></p>
+<h4 align="center">Visitor's count :eyes:</h4>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Finsenty54}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsenty54&langs_count=10&theme=tokyonight&layout=compact" alt="Finsenty54 :: Top Langs" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Finsenty54&show_icons=true&theme=synthwave" alt="Finsenty54 :: Profile Stats" /></p>
 
