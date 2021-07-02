@@ -4,8 +4,7 @@
 **Finsenty54/Finsenty54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on School of Cyberspace in Hangzhou Dianzi University
-- 🌱 I’m currently learning Hash function security analysis
+- 🔭 I’m currently working on Hash function security analysis
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
