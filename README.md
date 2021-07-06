@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Hash function security analysis 😜  
   
 
-- **<ins>🌱 I’m currently learning joint local-collision analysis</ins>**  
+- **<ins>🌱 I’m currently learning SHA256</ins>**  
   
 
 - ⚡ KEEP GOING!  
