@@ -1,6 +1,6 @@
-<div align="center">
-<a href="https://www.instagram.com/jsomin86/"><img src="https://github.com/Finsenty54/finsenty54.github.io/blob/master/images/love.jpg" alt="jsomin86" align="center" width="30%" height="30%" /></a>
-</div>  
+;<div align="center">
+;<a href="https://www.instagram.com/jsomin86/"><img src="https://github.com/Finsenty54/finsenty54.github.io/blob/master/images/love.jpg" alt="jsomin86" align="center" width="30%" height="30%" /></a>
+;</div>  
   
 
 ### Hi there. 👋   
