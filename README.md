@@ -6,10 +6,10 @@
 ### Hi there. 👋   
   
 
-- 🔭 I’m currently working on Hash function security analysis 😜  
+<!-- - 🔭 I’m currently working on Hash function security analysis 😜  -->
   
 
-- **<ins>🌱 I’m currently learning SHA256</ins>**  
+<!-- - **<ins>🌱 I’m currently learning SHA256</ins>**  -->
   
 
 - ⚡ KEEP GOING!  
